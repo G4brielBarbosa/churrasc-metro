@@ -84,7 +84,7 @@ section{
     margin-top: 50px;
 }
 
-@media screen and (max-width: 800px){
+@media screen and (max-width: 1080px){
     .container-I{
         display: block;
         width: 100vw;
